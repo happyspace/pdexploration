@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="dm.config" name="dm Configuration for 'pdexploration'">
+    <output-path>$PROJECT_DIR$/out/artifacts/dm_Configuration_for__pdexploration_</output-path>
+    <root id="root">
+      <element id="packaging-for-dm-config" module="pdexploration" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,6 @@
+connection:
+    uid: 1000
+    gid: 1000
+    host: localhost
+    port: 2049
+    mount: /sdata
